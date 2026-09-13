@@ -3,7 +3,7 @@ import { validateName } from '../../../lib/name.js';
 import { getRecord } from '../../../lib/registry.js';
 import { classifyClaim } from '../../../lib/health.js';
 import { probe } from '../../../lib/dns-probe.js';
-import { createRateLimiter } from '../../../lib/throttle.js';
+import { createRateLimiter, rateLimitHeaders } from '../../../lib/throttle.js';
 
 // Node runtime for node:dns — edge has no resolver. Dynamic because the
 // answer is a live DNS reading; caching it would turn "did it work?" into
@@ -49,7 +49,7 @@ export async function GET(request) {
     const seconds = Math.ceil(budget.retryAfterMs / 1000);
     return Response.json(
       { error: 'rate_limited', retryInMs: budget.retryAfterMs },
-      { status: 429, headers: { 'Retry-After': String(seconds) } },
+      { status: 429, headers: { 'Retry-After': String(seconds), ...rateLimitHeaders(budget) } },
     );
   }
 
@@ -70,19 +70,22 @@ export async function GET(request) {
     probe(name),
   ]);
 
-  return Response.json({
-    name,
-    cname,
-    a,
-    txt: {
-      name: flattenTxt(txtName),
-      vercelLabel: flattenTxt(txtVercelLabel),
-      zoneVercel: flattenTxt(txtVercelZone),
+  return Response.json(
+    {
+      name,
+      cname,
+      a,
+      txt: {
+        name: flattenTxt(txtName),
+        vercelLabel: flattenTxt(txtVercelLabel),
+        zoneVercel: flattenTxt(txtVercelZone),
+      },
+      serving: {
+        status: classifyClaim(record, servingProbe),
+        title: servingProbe.ok && !servingProbe.refused ? servingProbe.title : null,
+        finalUrl: servingProbe.ok ? servingProbe.finalUrl : null,
+      },
     },
-    serving: {
-      status: classifyClaim(record, servingProbe),
-      title: servingProbe.ok && !servingProbe.refused ? servingProbe.title : null,
-      finalUrl: servingProbe.ok ? servingProbe.finalUrl : null,
-    },
-  });
+    { headers: rateLimitHeaders(budget) },
+  );
 }
