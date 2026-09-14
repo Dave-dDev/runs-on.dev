@@ -8,6 +8,12 @@
   "country": "IN",
   "profile": {
     "name": "Vishnu Skandha",
-    "bio": "Software Developer building AI-powered industrial systems | AI/ML • Computer Vision • IoT • Embedded Linux • BSP • Automation • Full-Stack"
+    "bio": "Software Developer building AI-powered industrial systems | AI/ML • Computer Vision • IoT • Embedded Linux • BSP • Automation • Full-Stack",
+    "links": [
+      {
+        "label": "My Portfolio",
+        "url": "https://vishnuskandha.qzz.io/"
+      }
+    ]
   }
 }
