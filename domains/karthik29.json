@@ -4,6 +4,8 @@
     "github": "Premaramkarthik"
   },
   "claimedAt": "2026-09-14T23:20:24.677Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN"
 }
