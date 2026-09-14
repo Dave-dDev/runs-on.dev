@@ -5,5 +5,9 @@
   },
   "claimedAt": "2026-09-14T21:07:03.170Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "profile": {
+    "name": "Karthik Premaram",
+    "bio": "https://github.com/Premaramkarthik"
+  }
 }
