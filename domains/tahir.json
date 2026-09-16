@@ -10,7 +10,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=tahir.runs-on.dev,1187b566aa7012ad5210"
+        "vc-domain-verify=tahir.runs-on.dev,f953e130c960e7b0264b"
       ]
     }
   }
