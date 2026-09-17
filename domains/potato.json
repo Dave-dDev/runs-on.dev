@@ -9,8 +9,16 @@
   "profile": {
     "links": [
       {
-        "label": "Discord profile",
+        "label": "Discord",
         "url": "https://discord.com/users/1043265547741167639"
+      },
+      {
+        "label": "Elamigos (MC server)",
+        "url": "https://discord.gg/QGGKr3RzMt"
+      },
+      {
+        "label": "Youtube",
+        "url": "https://youtube.com/@7potato7"
       }
     ]
   }
