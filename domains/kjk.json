@@ -4,6 +4,12 @@
     "github": "Jaswanth-Kumar-2007"
   },
   "claimedAt": "2026-09-17T17:36:49.032Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "country": "IN",
+  "profile": {
+    "name": "Jaswanth-Kumar-2007",
+    "bio": "🧑‍💻 Developer | ⚡ Problem Solver | 🌍 Tech Explorer"
+  }
 }
