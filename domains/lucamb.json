@@ -4,10 +4,19 @@
     "github": "powellvl"
   },
   "claimedAt": "2026-09-17T12:49:14.928Z",
-  "records": {},
+  "records": {
+    "CNAME": "3ecc59d7c086b3ed.vercel-dns-017.com"
+  },
   "country": "FR",
   "profile": {
     "name": "powellvl",
     "bio": "❇️ Web Developper / Web Designer"
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=lucamb.runs-on.dev,38b4e904c67637a38a46"
+      ]
+    }
   }
 }
