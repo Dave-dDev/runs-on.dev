@@ -4,6 +4,15 @@
     "github": "Mrnal123"
   },
   "claimedAt": "2026-09-17T16:11:29.049Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "9e27ee0eed198d82.vercel-dns-017.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=devrox.runs-on.dev,b5015e2c194bbf7265a8"
+      ]
+    }
+  }
 }
