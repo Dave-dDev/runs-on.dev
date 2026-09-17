@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "\"vc-domain-verify=mfalme.runs-on.dev,2a7bf7d26615af6a511f\""
+        "vc-domain-verify=mfalme.runs-on.dev,2a7bf7d26615af6a511f"
       ]
     }
   },
