@@ -4,6 +4,8 @@
     "github": "aryansh-gupta"
   },
   "claimedAt": "2026-09-17T13:14:38.889Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN"
 }
