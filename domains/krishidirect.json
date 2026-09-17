@@ -4,6 +4,8 @@
     "github": "black-collar"
   },
   "claimedAt": "2026-09-17T18:02:46.248Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN"
 }
