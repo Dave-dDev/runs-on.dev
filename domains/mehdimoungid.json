@@ -4,6 +4,14 @@
     "github": "Mehdionmars"
   },
   "claimedAt": "2026-09-17T12:58:03.630Z",
-  "records": {},
-  "country": "MA"
+  "records": {
+    "TXT": [
+      "vc-domain-verify=mehdimoungid.runs-on.dev,bb27168892f22b180701"
+    ]
+  },
+  "country": "MA",
+  "profile": {
+    "name": "mehdionmars",
+    "bio": "Just a chillin dev web"
+  }
 }
