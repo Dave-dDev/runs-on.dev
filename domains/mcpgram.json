@@ -4,10 +4,15 @@
     "github": "Aryan418-dev"
   },
   "claimedAt": "2026-09-17T03:41:16.689Z",
-  "records": {
-    "TXT": [
-      "vc-domain-verify=runs-on.dev,ce38ee4b23fff7628e22"
+  "records": {},
+  "country": "IN",
+  "profile": {
+    "name": "Aryan418-dev",
+    "links": [
+      {
+        "label": "Aryan",
+        "url": "https://github.com/Aryan418-dev"
+      }
     ]
-  },
-  "country": "IN"
+  }
 }
