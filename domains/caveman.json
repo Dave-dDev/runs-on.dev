@@ -4,6 +4,15 @@
     "github": "dhimanLove"
   },
   "claimedAt": "2026-09-17T12:27:00.755Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=caveman.runs-on.dev,8a7c86f107582e17e75a"
+      ]
+    }
+  }
 }
