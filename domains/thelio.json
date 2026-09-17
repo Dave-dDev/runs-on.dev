@@ -4,6 +4,18 @@
     "github": "Examera1005"
   },
   "claimedAt": "2026-09-17T17:50:48.707Z",
-  "records": {},
-  "country": "CH"
+  "records": {
+    "CNAME": "909f14616b329d57.vercel-dns-017.com"
+  },
+  "country": "CH",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=thelio.runs-on.dev,2faec95e8fe387dd4e3f"
+      ]
+    }
+  },
+  "profile": {
+    "name": "Examera1005"
+  }
 }
