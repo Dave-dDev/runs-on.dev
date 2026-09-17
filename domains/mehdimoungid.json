@@ -5,9 +5,7 @@
   },
   "claimedAt": "2026-09-17T12:58:03.630Z",
   "records": {
-    "TXT": [
-      "vc-domain-verify=mehdimoungid.runs-on.dev,bb27168892f22b180701"
-    ]
+    "CNAME": "4411c0840caf569c.vercel-dns-017.com"
   },
   "country": "MA",
   "profile": {
