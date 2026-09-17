@@ -5,7 +5,14 @@
   },
   "claimedAt": "2026-09-17T14:18:59.164Z",
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "CNAME": "1065e26f00b2c886.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=ayushh.runs-on.dev,a1078cb0e17d4e9307f1"
+      ]
+    }
+  }
 }
