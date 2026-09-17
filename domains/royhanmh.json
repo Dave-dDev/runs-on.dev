@@ -7,13 +7,5 @@
   "records": {
     "CNAME": "royhanmh.netlify.app"
   },
-  "country": "SG",
-  "profile": {
-    "links": [
-      {
-        "label": "Porfollio",
-        "url": "https://royhanmh.netlify.app/"
-      }
-    ]
-  }
+  "country": "SG"
 }
