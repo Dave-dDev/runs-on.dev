@@ -10,5 +10,12 @@
   "country": "IN",
   "profile": {
     "name": "rohitksahoo"
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=rohitksahoo.runs-on.dev,9b391729e71d9021d8bd"
+      ]
+    }
   }
 }
