@@ -4,6 +4,11 @@
     "github": "sethi-ronak"
   },
   "claimedAt": "2026-09-17T19:20:38.905Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "country": "IN",
+  "profile": {
+    "name": "Ronak Sethi"
+  }
 }
