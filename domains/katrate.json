@@ -4,6 +4,11 @@
     "github": "katrate"
   },
   "claimedAt": "2026-09-17T19:02:48.973Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "katratedomain.vercel.app"
+  },
+  "country": "IN",
+  "profile": {
+    "name": "katrate"
+  }
 }
