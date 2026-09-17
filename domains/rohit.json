@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=rohit.runs-on.dev,ed39dd4165b2d5839eda"
+        "ed39dd4165b2d5839eda"
       ]
     }
   }
