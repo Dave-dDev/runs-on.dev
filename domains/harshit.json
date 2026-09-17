@@ -4,5 +4,10 @@
     "github": "HarshitTaneja006"
   },
   "claimedAt": "2026-09-02T18:23:48.416Z",
-  "records": {}
+  "records": {},
+  "subdomains": {
+    "ffcsketch": {
+      "CNAME": "ffcsketch.pages.dev"
+    }
+  }
 }
