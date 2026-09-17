@@ -13,6 +13,9 @@
       "TXT": [
         "vc-domain-verify=semyon.runs-on.dev,118d3277d24cbc467bea"
       ]
+    },
+    "semyon": {
+      "CNAME": "8fede0f821bfdcc5.vercel-dns-017.com"
     }
   }
 }
