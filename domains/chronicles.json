@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=curiosity.chronicles.runs-on.dev,f98fd9bcc216f3491780"
+        "vc-domain-verify=chronicles.runs-on.dev,d8ed3645eb01cde646a4"
       ]
     }
   }
