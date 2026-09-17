@@ -5,7 +5,19 @@
   },
   "claimedAt": "2026-09-17T19:46:41.232Z",
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "A": [
+      "76.76.21.21"
+    ],
+    "TXT": [
+      "v=spf1 -all"
+    ]
   },
-  "country": "MA"
+  "country": "MA",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=requestline.runs-on.dev,71946d86ff0697d0afd7"
+      ]
+    }
+  }
 }
