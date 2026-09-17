@@ -14,5 +14,10 @@
         "url": "https://safalgautam.com.np"
       }
     ]
+  },
+  "subdomains": {
+    "blog": {
+      "CNAME": "be0d88f3a0741313.vercel-dns-017.com"
+    }
   }
 }
