@@ -4,6 +4,15 @@
     "github": "cNassim"
   },
   "claimedAt": "2026-09-17T21:15:15.882Z",
-  "records": {},
-  "country": "FR"
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "country": "FR",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=nassimbellanaya.runs-on.dev,b0b3f0f51a2ee917f28a"
+      ]
+    }
+  }
 }
