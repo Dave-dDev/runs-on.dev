@@ -5,5 +5,8 @@
   },
   "claimedAt": "2026-09-17T11:17:44.303Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "profile": {
+    "name": "git-pi-e"
+  }
 }
