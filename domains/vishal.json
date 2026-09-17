@@ -4,6 +4,8 @@
     "github": "vishal24p"
   },
   "claimedAt": "2026-09-17T16:25:29.866Z",
-  "records": {},
+  "records": {
+    "CNAME": "c6c78809c0ab6b27.vercel-dns-017.com"
+  },
   "country": "IN"
 }
