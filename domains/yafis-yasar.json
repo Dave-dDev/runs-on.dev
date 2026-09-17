@@ -15,5 +15,12 @@
         "url": "https://yafisyasar.vercel.app"
       }
     ]
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=yafis-yasar.runs-on.dev,6478c73c650637a97e3f"
+      ]
+    }
   }
 }
