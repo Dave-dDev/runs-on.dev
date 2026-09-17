@@ -5,9 +5,7 @@
   },
   "claimedAt": "2026-09-17T08:14:14.676Z",
   "records": {
-    "TXT": [
-      "_vercel"
-    ]
+    "CNAME": "cname.vercel-dns.com"
   },
   "country": "PL",
   "subdomains": {
