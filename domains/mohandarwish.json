@@ -5,9 +5,10 @@
   },
   "claimedAt": "2026-09-17T23:10:17.436Z",
   "records": {
-    "TXT": [
-      "vc-domain-verify=mohandarwish.runs-on.dev,fafb67b31e26b59b381a"
-    ]
+    "CNAME": "71b2f1c7c9db69a9.vercel-dns-017.com"
   },
-  "country": "EG"
+  "country": "EG",
+  "profile": {
+    "name": "mohandamged70m"
+  }
 }
