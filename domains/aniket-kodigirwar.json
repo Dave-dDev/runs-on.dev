@@ -4,6 +4,8 @@
     "github": "anikod25"
   },
   "claimedAt": "2026-09-17T14:34:04.986Z",
-  "records": {},
+  "records": {
+    "CNAME": "aa616488e30c6537.vercel-dns-017.com"
+  },
   "country": "IN"
 }
