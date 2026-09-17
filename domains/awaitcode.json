@@ -4,7 +4,9 @@
     "github": "marcogarganigo"
   },
   "claimedAt": "2026-09-17T21:42:44.195Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IT",
   "profile": {
     "name": "marcogarganigo"
