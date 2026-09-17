@@ -4,7 +4,9 @@
     "github": "Aryan418-dev"
   },
   "claimedAt": "2026-09-17T03:41:16.689Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN",
   "profile": {
     "name": "Aryan418-dev",
@@ -14,5 +16,12 @@
         "url": "https://github.com/Aryan418-dev"
       }
     ]
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=runs-on.dev,ce38ee4b23fff7628e22"
+      ]
+    }
   }
 }
