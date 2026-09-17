@@ -5,5 +5,9 @@
   },
   "claimedAt": "2026-09-17T12:49:14.928Z",
   "records": {},
-  "country": "FR"
+  "country": "FR",
+  "profile": {
+    "name": "powellvl",
+    "bio": "❇️ Web Developper / Web Designer"
+  }
 }
