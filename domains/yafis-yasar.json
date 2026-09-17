@@ -6,5 +6,14 @@
   "claimedAt": "2026-09-02T17:02:18.845Z",
   "records": {
     "URL": "https://yafisyasar.vercel.app"
+  },
+  "profile": {
+    "name": "yafisyasar",
+    "links": [
+      {
+        "label": "My portfolio",
+        "url": "https://yafisyasar.vercel.app"
+      }
+    ]
   }
 }
