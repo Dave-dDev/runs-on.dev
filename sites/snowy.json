@@ -1,0 +1,14 @@
+{
+  "name": "snowy",
+  "owner": "Gauravzz12",
+  "active": "e29def9b",
+  "deployments": [
+    {
+      "id": "e29def9b",
+      "at": "2026-09-17T18:07:28.819Z",
+      "files": 17,
+      "bytes": 5007698
+    }
+  ],
+  "updatedAt": "2026-09-17T18:07:28.819Z"
+}
