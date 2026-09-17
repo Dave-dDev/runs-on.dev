@@ -16,6 +16,11 @@
     ]
   },
   "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=blog.safal.runs-on.dev,4325cecae0f1ed12a3c1"
+      ]
+    },
     "blog": {
       "CNAME": "be0d88f3a0741313.vercel-dns-017.com"
     }
