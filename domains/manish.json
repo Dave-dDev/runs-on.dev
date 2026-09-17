@@ -4,9 +4,18 @@
     "github": "manishshrestha01"
   },
   "claimedAt": "2026-09-17T13:36:42.713Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "NP",
   "profile": {
     "name": "manishshrestha01"
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=manish.runs-on.dev,ad6a701ec19e545a8f11"
+      ]
+    }
   }
 }
