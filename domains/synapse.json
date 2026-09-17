@@ -4,7 +4,11 @@
     "github": "haqmcha7-sudo"
   },
   "claimedAt": "2026-09-17T08:27:28.539Z",
-  "records": {},
+  "records": {
+    "A": [
+      "196.70.228.78"
+    ]
+  },
   "country": "MA",
   "profile": {
     "name": "haqmcha7-sudo"
