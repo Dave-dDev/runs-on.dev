@@ -4,7 +4,9 @@
     "github": "deeepakgm-hw"
   },
   "claimedAt": "2026-09-17T15:10:04.956Z",
-  "records": {},
+  "records": {
+    "CNAME": "deepak-gm-portfolio.onrender.com"
+  },
   "country": "IN",
   "profile": {
     "name": "Deepak GM",
