@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "2bb26e9bc07d2e25.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=priyanshunagle.runs-on.dev,964fa64bb1c82d6b9a31"
+      ]
+    }
+  }
 }
