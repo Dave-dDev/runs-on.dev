@@ -5,5 +5,9 @@
   },
   "claimedAt": "2026-09-17T14:39:08.162Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "profile": {
+    "name": "Raj",
+    "bio": "HA ha AH"
+  }
 }
