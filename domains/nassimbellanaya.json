@@ -9,7 +9,7 @@
   },
   "country": "FR",
   "subdomains": {
-    "_vercel": {
+    "nassimbellanaya": {
       "TXT": [
         "nassimbellanaya.runs-on.dev,b0b3f0f51a2ee917f28a"
       ]
