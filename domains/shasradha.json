@@ -5,5 +5,15 @@
   },
   "claimedAt": "2026-09-17T14:31:34.706Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "profile": {
+    "name": "Shasradha",
+    "bio": "AI & Cybersecurity Researcher | Software & Full-Stack Developer | Robotics & Embedded Systems Engineer",
+    "links": [
+      {
+        "label": "Portfolio",
+        "url": "https://shasradha.github.io"
+      }
+    ]
+  }
 }
