@@ -5,7 +5,14 @@
   },
   "claimedAt": "2026-09-17T11:54:53.287Z",
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "CNAME": "e9894cd5bd3c79fe.vercel-dns-017.com"
   },
-  "country": "PH"
+  "country": "PH",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=kxi.runs-on.dev,d1455d2e2de767882f99"
+      ]
+    }
+  }
 }
