@@ -11,12 +11,5 @@
   "profile": {
     "name": "powellvl",
     "bio": "❇️ Web Developper / Web Designer"
-  },
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=lucamb.runs-on.dev,38b4e904c67637a38a46"
-      ]
-    }
   }
 }

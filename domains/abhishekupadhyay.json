@@ -9,11 +9,6 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=abhishekupadhyay.runs-on.dev,7136a4feec4d114fbb3b"
-      ]
-    },
     "abhishekupadhyay": {
       "CNAME": "cb52da2b37c9d123.vercel-dns-017.com"
     }

@@ -9,11 +9,6 @@
   },
   "country": "BR",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=amhub.runs-on.dev,9711c2728c262ef43839"
-      ]
-    },
     "amhub": {
       "CNAME": "91eef7cc7f01d271.vercel-dns-017.com"
     }

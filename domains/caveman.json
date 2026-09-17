@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "9b3f79a091da60a9.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=caveman.runs-on.dev,8a7c86f107582e17e75a"
-      ]
-    }
-  }
+  "country": "IN"
 }

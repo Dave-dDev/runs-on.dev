@@ -9,11 +9,6 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=officialyyraj.runs-on.dev,1ff5c1ad5d1e4195af97"
-      ]
-    },
     "officialyyraj": {
       "CNAME": "467d1488018f7a21.vercel-dns-017.com"
     }
