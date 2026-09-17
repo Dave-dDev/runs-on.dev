@@ -5,13 +5,13 @@
   },
   "claimedAt": "2026-09-17T11:40:44.412Z",
   "records": {
-    "CNAME": "8efe21582e3d81df.vercel-dns-017.com"
+    "CNAME": "cname.vercel-dns.com"
   },
   "country": "IN",
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=lokifr.runs-on.dev,f112f6d081f7e090d0f8"
+        "vc-domain-verify=lokifr.runs-on.dev,98629651c6841371cbbc"
       ]
     }
   }
