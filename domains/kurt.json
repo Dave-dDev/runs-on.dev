@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "e9894cd5bd3c79fe.vercel-dns-017.com"
   },
-  "country": "PH"
+  "country": "PH",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=kurt.runs-on.dev,cf1bd0d0f2778cc12520"
+      ]
+    }
+  }
 }
