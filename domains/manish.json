@@ -4,9 +4,11 @@
     "github": "manishshrestha01"
   },
   "claimedAt": "2026-09-17T13:36:42.713Z",
-  "records": {},
+  "records": {
+    "CNAME": "manishshrestha01.github.io"
+  },
   "country": "NP",
   "profile": {
-    "name": "manishshrestha01"
+    "name": "Manish Shrestha"
   }
 }
