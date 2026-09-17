@@ -7,12 +7,20 @@
   "records": {},
   "country": "IN",
   "profile": {
-    "name": "Shasradha",
+    "name": "Shasradha Karmakar",
     "bio": "AI & Cybersecurity Researcher | Software & Full-Stack Developer | Robotics & Embedded Systems Engineer",
     "links": [
       {
         "label": "Portfolio",
         "url": "https://shasradha.github.io"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/shasradha"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0009-0004-0597-9841"
       }
     ]
   }
