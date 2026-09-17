@@ -4,6 +4,8 @@
     "github": "budurusreemohanesh-cmyk"
   },
   "claimedAt": "2026-09-16T18:19:13.333Z",
-  "records": {},
+  "records": {
+    "CNAME": "21fcef6295582954.vercel-dns-017.com"
+  },
   "country": "IN"
 }
