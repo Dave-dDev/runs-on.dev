@@ -4,6 +4,8 @@
     "github": "Enggmakes"
   },
   "claimedAt": "2026-09-17T17:00:55.575Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN"
 }
