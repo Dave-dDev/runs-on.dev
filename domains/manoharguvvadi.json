@@ -7,5 +7,9 @@
   "records": {
     "CNAME": "4c981e04f0514472.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "profile": {
+    "name": "manu",
+    "bio": "nothing"
+  }
 }
