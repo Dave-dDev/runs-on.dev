@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "adishah.vercel-dns.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=adishah.runs-on.dev,7c1a91d748b22f91ccaa"
+      ]
+    }
+  }
 }
