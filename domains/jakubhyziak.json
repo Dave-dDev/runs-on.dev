@@ -4,6 +4,17 @@
     "github": "Jacob22092"
   },
   "claimedAt": "2026-09-17T08:14:14.676Z",
-  "records": {},
-  "country": "PL"
+  "records": {
+    "TXT": [
+      "_vercel"
+    ]
+  },
+  "country": "PL",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=runs-on.dev,49e4a42dd79d84c45076"
+      ]
+    }
+  }
 }
