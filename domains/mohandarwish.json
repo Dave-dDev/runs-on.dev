@@ -5,7 +5,9 @@
   },
   "claimedAt": "2026-09-17T23:10:17.436Z",
   "records": {
-    "URL": "https://mohanddarwish.vercel.app/"
+    "TXT": [
+      "vc-domain-verify=mohandarwish.runs-on.dev,fafb67b31e26b59b381a"
+    ]
   },
   "country": "EG",
   "profile": {
