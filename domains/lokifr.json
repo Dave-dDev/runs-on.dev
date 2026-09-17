@@ -9,7 +9,7 @@
   },
   "country": "IN",
   "subdomains": {
-    "cname": {
+    "_vercel": {
       "TXT": [
         "vc-domain-verify=lokifr.runs-on.dev,d988d3020af5868ca360"
       ]
