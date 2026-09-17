@@ -16,5 +16,12 @@
         "url": "https://github.com/Aryan418-dev"
       }
     ]
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=runs-on.dev,ce38ee4b23fff7628e22"
+      ]
+    }
   }
 }
