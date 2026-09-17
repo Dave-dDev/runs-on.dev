@@ -21,12 +21,5 @@
         "url": "https://youtube.com/@7potato7"
       }
     ]
-  },
-  "subdomains": {
-    "_discord": {
-      "TXT": [
-        "dh=13142882bb481b9fa034329fdd958b4785234a16"
-      ]
-    }
   }
 }
