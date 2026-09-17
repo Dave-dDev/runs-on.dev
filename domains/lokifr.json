@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=lokifr.runs-on.dev,c9d6f0dcccfbd0aaaf0e"
+        "vc-domain-verify=lokifr.runs-on.dev,043563f59ae776e4bac0"
       ]
     }
   }
