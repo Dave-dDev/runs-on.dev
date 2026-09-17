@@ -4,6 +4,10 @@
     "github": "Aryan418-dev"
   },
   "claimedAt": "2026-09-17T03:41:16.689Z",
-  "records": {},
+  "records": {
+    "TXT": [
+      "vc-domain-verify=runs-on.dev,ce38ee4b23fff7628e22"
+    ]
+  },
   "country": "IN"
 }
