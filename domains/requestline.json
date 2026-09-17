@@ -14,7 +14,7 @@
         "vc-domain-verify=requestline.runs-on.dev,71946d86ff0697d0afd7"
       ]
     },
-    "_verce": {
+    "requestline": {
       "CNAME": "a48c7490b2363714.vercel-dns-017.com"
     }
   }
