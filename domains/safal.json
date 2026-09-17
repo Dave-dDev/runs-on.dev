@@ -5,5 +5,14 @@
   },
   "claimedAt": "2026-09-17T16:42:28.437Z",
   "records": {},
-  "country": "NP"
+  "country": "NP",
+  "profile": {
+    "name": "SaFal Gautam",
+    "links": [
+      {
+        "label": "My portfolio",
+        "url": "https://safalgautam.com.np"
+      }
+    ]
+  }
 }
