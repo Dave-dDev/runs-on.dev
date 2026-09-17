@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "cname.vercel-dns.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=krishidirect.runs-on.dev,51bd6bc16ffbe9b2ea2d"
+      ]
+    }
+  }
 }
