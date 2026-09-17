@@ -13,6 +13,9 @@
       "TXT": [
         "vc-domain-verify=thelio.runs-on.dev,2faec95e8fe387dd4e3f"
       ]
+    },
+    "thelio": {
+      "CNAME": "909f14616b329d57.vercel-dns-017.com"
     }
   },
   "profile": {
