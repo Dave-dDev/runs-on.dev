@@ -5,7 +5,14 @@
   },
   "claimedAt": "2026-09-17T17:00:55.575Z",
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "CNAME": "cf1fab7390b79461.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=shadownet.runs-on.dev,c10b2e6f6345623fd132"
+      ]
+    }
+  }
 }
