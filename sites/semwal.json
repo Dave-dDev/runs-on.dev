@@ -1,0 +1,14 @@
+{
+  "name": "semwal",
+  "owner": "SemwalAditya",
+  "active": "4765df25",
+  "deployments": [
+    {
+      "id": "4765df25",
+      "at": "2026-09-17T17:39:01.535Z",
+      "files": 1,
+      "bytes": 182121
+    }
+  ],
+  "updatedAt": "2026-09-17T17:39:01.535Z"
+}
