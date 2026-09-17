@@ -5,9 +5,7 @@
   },
   "claimedAt": "2026-09-17T08:27:28.539Z",
   "records": {
-    "A": [
-      "41.140.115.158"
-    ]
+    "CNAME": "synapse.serveftp.com"
   },
   "country": "MA",
   "profile": {
