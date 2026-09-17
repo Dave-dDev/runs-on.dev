@@ -4,6 +4,11 @@
     "github": "shubham932000"
   },
   "claimedAt": "2026-09-17T19:05:46.530Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "URL": "https://portfolio-shubham932000.vercel.app/"
+  },
+  "country": "IN",
+  "profile": {
+    "name": "Shubham Portfolio"
+  }
 }
