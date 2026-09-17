@@ -7,5 +7,9 @@
   "records": {
     "CNAME": "tqus.github.io"
   },
-  "country": "AE"
+  "country": "AE",
+  "profile": {
+    "name": "tqus",
+    "bio": "yo idk"
+  }
 }
