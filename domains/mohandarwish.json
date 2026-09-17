@@ -12,5 +12,12 @@
   "country": "EG",
   "profile": {
     "name": "mohandamged70m"
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=runs-on.dev,f1f75ff082957396e793"
+      ]
+    }
   }
 }
