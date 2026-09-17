@@ -21,6 +21,9 @@
       "TXT": [
         "vc-domain-verify=yafis-yasar.runs-on.dev,6478c73c650637a97e3f"
       ]
+    },
+    "yafis-yasar": {
+      "CNAME": "e73ff0fdda5347ce.vercel-dns-017.com"
     }
   }
 }
