@@ -4,6 +4,8 @@
     "github": "ItzVirAj"
   },
   "claimedAt": "2026-09-17T04:25:55.439Z",
-  "records": {},
+  "records": {
+    "CNAME": "guruom-staging.onrender.com"
+  },
   "country": "IN"
 }
