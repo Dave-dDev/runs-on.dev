@@ -4,6 +4,15 @@
     "github": "HarshSharma20050924"
   },
   "claimedAt": "2026-09-17T16:57:54.672Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=systemlabs.runs-on.dev,cffef924763fc0486d26"
+      ]
+    }
+  }
 }
