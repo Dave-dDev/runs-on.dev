@@ -4,6 +4,8 @@
     "github": "Akshay0047"
   },
   "claimedAt": "2026-09-17T11:11:57.844Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN"
 }
