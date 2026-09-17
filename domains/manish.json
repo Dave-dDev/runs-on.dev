@@ -8,12 +8,5 @@
   "country": "NP",
   "profile": {
     "name": "manishshrestha01"
-  },
-  "subdomains": {
-    "subdomain-owner-verification": {
-      "TXT": [
-        "b137cb594715f6b00a512deb98653cb4"
-      ]
-    }
   }
 }
