@@ -23,7 +23,7 @@
     ]
   },
   "subdomains": {
-    "_discord.potato": {
+    "_discord": {
       "TXT": [
         "dh=13142882bb481b9fa034329fdd958b4785234a16"
       ]
