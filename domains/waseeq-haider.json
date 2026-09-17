@@ -4,6 +4,8 @@
     "github": "waseeq-haider"
   },
   "claimedAt": "2026-09-17T18:54:57.124Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "PK"
 }
