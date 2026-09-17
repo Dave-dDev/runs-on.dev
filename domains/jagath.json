@@ -14,5 +14,9 @@
         "vc-domain-verify=runs-on.dev,ecc4e84313a4d739b055"
       ]
     }
+  },
+  "profile": {
+    "name": "jagath-sajjan",
+    "bio": "hello"
   }
 }
