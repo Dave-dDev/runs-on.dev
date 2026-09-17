@@ -11,5 +11,12 @@
   "profile": {
     "name": "Jaswanth-Kumar-2007",
     "bio": "🧑‍💻 Developer | ⚡ Problem Solver | 🌍 Tech Explorer"
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=kjk.runs-on.dev,000da0c05552132b9c39"
+      ]
+    }
   }
 }
