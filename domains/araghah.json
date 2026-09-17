@@ -5,7 +5,17 @@
   },
   "claimedAt": "2026-09-17T17:42:13.280Z",
   "records": {
-    "URL": "https://hall-of-projects.vercel.app"
+    "URL": "https://ara-hall-of-projects.vercel.app"
   },
-  "country": "CA"
+  "country": "CA",
+  "profile": {
+    "name": "Ara Ghahramanyan",
+    "bio": "Computer Science student and software developer building full-stack, cloud and game development projects.",
+    "links": [
+      {
+        "label": "My portfolio",
+        "url": "https://ara-hall-of-projects.vercel.app"
+      }
+    ]
+  }
 }
