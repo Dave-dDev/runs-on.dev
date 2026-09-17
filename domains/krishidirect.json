@@ -13,6 +13,9 @@
       "TXT": [
         "vc-domain-verify=krishidirect.runs-on.dev,51bd6bc16ffbe9b2ea2d"
       ]
+    },
+    "krishidirect": {
+      "CNAME": "a98239d44b57c6f1.vercel-dns-017.com"
     }
   }
 }
