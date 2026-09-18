@@ -5,7 +5,7 @@
   },
   "claimedAt": "2026-09-18T04:52:31.696Z",
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "CNAME": "fddc4e9e245b230d.vercel-dns-017.com"
   },
   "country": "IN",
   "subdomains": {
@@ -13,6 +13,9 @@
       "TXT": [
         "vc-domain-verify=cognix.runs-on.dev,f3af934feb51e1389950"
       ]
+    },
+    "cognix": {
+      "CNAME": "fddc4e9e245b230d.vercel-dns-017.com"
     }
   }
 }
