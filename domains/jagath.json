@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=runs-on.dev,ecc4e84313a4d739b055"
+        "vc-domain-verify=jagath.runs-on.dev,a91806e4801286b57329"
       ]
     }
   },
