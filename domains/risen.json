@@ -5,5 +5,8 @@
   },
   "claimedAt": "2026-09-18T11:51:06.683Z",
   "records": {},
-  "country": "MD"
+  "country": "MD",
+  "profile": {
+    "name": "Amin"
+  }
 }
