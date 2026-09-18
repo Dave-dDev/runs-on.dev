@@ -5,5 +5,10 @@
   },
   "claimedAt": "2026-09-18T05:20:25.507Z",
   "records": {},
-  "country": "TH"
+  "country": "TH",
+  "subdomains": {
+    "cname": {
+      "CNAME": "3f2c83692ce60fcd.vercel-dns-017.com"
+    }
+  }
 }
