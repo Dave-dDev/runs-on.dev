@@ -13,6 +13,9 @@
       "TXT": [
         "vc-domain-verify=pritambanik.runs-on.dev,7fc5eea9a829f39b9448"
       ]
+    },
+    "pritambanik": {
+      "CNAME": "e721493cd2cb5b9a.vercel-dns-017.com"
     }
   }
 }
