@@ -5,15 +5,5 @@
   },
   "claimedAt": "2026-09-18T05:20:25.507Z",
   "records": {},
-  "country": "TH",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=leavebru.runs-on.dev,52f9e8dc0b69134399b0"
-      ]
-    },
-    "cname": {
-      "CNAME": "3f2c83692ce60fcd.vercel-dns-017.com"
-    }
-  }
+  "country": "TH"
 }
