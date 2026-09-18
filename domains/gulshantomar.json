@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "gulshantomar.runs-on.dev,6799a827e26cf724aa49"
+        "vc-domain-verify=gulshantomar.runs-on.dev,6799a827e26cf724aa49"
       ]
     }
   },
