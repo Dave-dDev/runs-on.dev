@@ -4,6 +4,18 @@
     "github": "gulshantomar"
   },
   "claimedAt": "2026-09-18T07:00:16.712Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "gulshantomar.runs-on.dev,6799a827e26cf724aa49"
+      ]
+    }
+  },
+  "profile": {
+    "name": "Gulshan Tomar"
+  }
 }
