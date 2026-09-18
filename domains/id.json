@@ -7,5 +7,15 @@
   "records": {
     "URL": "https://builtbybhumi.com/"
   },
-  "country": "ID"
+  "country": "ID",
+  "profile": {
+    "name": "kasumaputu6633",
+    "bio": "nothin.",
+    "links": [
+      {
+        "label": "Github",
+        "url": "https://github.com/kasumaputu6633"
+      }
+    ]
+  }
 }
