@@ -5,5 +5,9 @@
   },
   "claimedAt": "2026-09-18T08:13:06.471Z",
   "records": {},
-  "country": "FR"
+  "country": "FR",
+  "profile": {
+    "name": "official memecoin page",
+    "bio": "memecoin"
+  }
 }
