@@ -4,9 +4,7 @@
     "github": "Frankk555555"
   },
   "claimedAt": "2026-09-18T05:20:25.507Z",
-  "records": {
-    "CNAME": "leave-management-web-psi.vercel.app"
-  },
+  "records": {},
   "country": "TH",
   "subdomains": {
     "_vercel": {
