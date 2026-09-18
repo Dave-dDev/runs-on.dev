@@ -8,9 +8,7 @@
   "country": "IN",
   "subdomains": {
     "livechat-customerservice": {
-      "TXT": [
-        "one1lottery-full-project.onrender.com"
-      ]
+      "CNAME": "one1lottery-full-project.onrender.com"
     }
   },
   "profile": {
