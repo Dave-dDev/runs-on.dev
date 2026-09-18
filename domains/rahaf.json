@@ -4,6 +4,8 @@
     "github": "RahafRsq"
   },
   "claimedAt": "2026-09-18T14:34:32.241Z",
-  "records": {},
+  "records": {
+    "CNAME": "portfolio-rahaf.onrender.com"
+  },
   "country": "JO"
 }
