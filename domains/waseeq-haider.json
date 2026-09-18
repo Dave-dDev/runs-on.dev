@@ -9,11 +9,6 @@
   },
   "country": "PK",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=waseeq-haider.runs-on.dev,4cbaf98de1adfc4432af"
-      ]
-    },
     "waseeq-haider": {
       "CNAME": "673bc8863b0bc81e.vercel-dns-017.com"
     }

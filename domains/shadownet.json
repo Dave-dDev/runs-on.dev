@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "cf1fab7390b79461.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=shadownet.runs-on.dev,c10b2e6f6345623fd132"
-      ]
-    }
-  }
+  "country": "IN"
 }

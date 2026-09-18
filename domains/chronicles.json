@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "2c5abd3bc1f6c5f2.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=chronicles.runs-on.dev,d8ed3645eb01cde646a4"
-      ]
-    }
-  }
+  "country": "IN"
 }

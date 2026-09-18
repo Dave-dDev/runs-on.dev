@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "8efe21582e3d81df.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=lokifr.runs-on.dev,98629651c6841371cbbc"
-      ]
-    }
-  }
+  "country": "IN"
 }

@@ -11,12 +11,5 @@
   "profile": {
     "name": "manu",
     "bio": "nothing"
-  },
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=manoharguvvadi.runs-on.dev,dcacd46c289a40e33040"
-      ]
-    }
   }
 }

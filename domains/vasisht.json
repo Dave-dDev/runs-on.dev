@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "2266a158d3565f13.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=vasisht.runs-on.dev,0ecbb5f97dad2720a367"
-      ]
-    }
-  }
+  "country": "IN"
 }

@@ -10,12 +10,5 @@
   "country": "IT",
   "profile": {
     "name": "marcogarganigo"
-  },
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=awaitcode.runs-on.dev,44698f2f3d5590e0b970"
-      ]
-    }
   }
 }

@@ -10,12 +10,5 @@
   "country": "IN",
   "profile": {
     "name": "Jay"
-  },
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=jay-tavanoj.runs-on.dev,cf86653fbd13445e3be0"
-      ]
-    }
   }
 }

@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "f36ffbe720e0f876.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=fbi.runs-on.dev,63c0c7be550ca5cebabf"
-      ]
-    }
-  }
+  "country": "IN"
 }

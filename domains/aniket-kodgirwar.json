@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "aa616488e30c6537.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=aniket-kodgirwar.runs-on.dev,590f2068785213b88e14"
-      ]
-    }
-  }
+  "country": "IN"
 }
