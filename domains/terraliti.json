@@ -7,5 +7,10 @@
   "records": {
     "CNAME": "terraliti.onrender.com"
   },
-  "country": "ID"
+  "country": "ID",
+  "subdomains": {
+    "terraliti": {
+      "CNAME": "terraliti.onrender.com"
+    }
+  }
 }
