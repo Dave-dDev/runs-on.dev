@@ -4,6 +4,8 @@
     "github": "mozaloom"
   },
   "claimedAt": "2026-09-18T10:34:32.150Z",
-  "records": {},
+  "records": {
+    "CNAME": "ready2start-website.mzlwm320.workers.dev"
+  },
   "country": "JO"
 }
