@@ -4,7 +4,9 @@
     "github": "shamiunalim"
   },
   "claimedAt": "2026-09-18T09:35:48.152Z",
-  "records": {},
+  "records": {
+    "CNAME": "shamiunalim.github.io"
+  },
   "country": "ID",
   "profile": {
     "name": "shamiunalim.github.io"
