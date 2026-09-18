@@ -7,8 +7,13 @@
   "records": {},
   "country": "TH",
   "subdomains": {
-    "cname": {
+    "leavebru": {
       "CNAME": "3f2c83692ce60fcd.vercel-dns-017.com"
+    },
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=leavebru.runs-on.dev,43f90f2d777e361d1bac"
+      ]
     }
   }
 }
