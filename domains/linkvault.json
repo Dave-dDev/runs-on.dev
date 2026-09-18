@@ -4,8 +4,13 @@
     "github": "aniketkumar7"
   },
   "claimedAt": "2026-09-18T06:14:14.907Z",
-  "records": {
-    "URL": "https://link-vault-two.vercel.app\""
-  },
-  "country": "IN"
+  "records": {},
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=linkvault.runs-on.dev,613f22f821893d6b71e2"
+      ]
+    }
+  }
 }
