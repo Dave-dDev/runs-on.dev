@@ -5,5 +5,9 @@
   },
   "claimedAt": "2026-09-18T08:23:27.936Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "profile": {
+    "name": "Donald colim",
+    "bio": "Just a normal dev with skill and i have claude"
+  }
 }
