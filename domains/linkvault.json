@@ -4,6 +4,15 @@
     "github": "aniketkumar7"
   },
   "claimedAt": "2026-09-18T06:14:14.907Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=linkvault.runs-on.dev,9c0635e1b330a48a3487"
+      ]
+    }
+  }
 }
