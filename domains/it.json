@@ -4,8 +4,11 @@
     "github": "anki1kr"
   },
   "claimedAt": "2026-09-18T06:50:38.538Z",
-  "records": {
-    "URL": "https://dsatracker.tech"
-  },
-  "country": "IN"
+  "records": {},
+  "country": "IN",
+  "subdomains": {
+    "dsa": {
+      "CNAME": "dsatracker.tech"
+    }
+  }
 }
