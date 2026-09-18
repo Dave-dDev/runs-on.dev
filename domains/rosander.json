@@ -9,10 +9,8 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=rosander.runs-on.dev,d0ebbeb8ee56234a2983"
-      ]
+    "rosander": {
+      "CNAME": "82287c317bbf02a7.vercel-dns-017.com"
     }
   },
   "profile": {
