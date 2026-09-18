@@ -10,19 +10,5 @@
   "country": "IN",
   "profile": {
     "name": "Saiom Patro"
-  },
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "{",
-        "\"records\": { \"CNAME\": \"cname.vercel-dns.com\" },",
-        "\"subdomains\": {",
-        "\"_vercel\": {",
-        "\"TXT\": [\"vc-domain-verify=saiom.runs-on.dev,bc3185aa302777503f91\"]",
-        "}",
-        "}",
-        "}"
-      ]
-    }
   }
 }
