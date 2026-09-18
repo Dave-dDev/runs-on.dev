@@ -5,7 +5,9 @@
   },
   "claimedAt": "2026-09-18T06:14:14.907Z",
   "records": {
-    "URL": "https://link-vault-two.vercel.app"
+    "TXT": [
+      "_vercel"
+    ]
   },
   "country": "IN"
 }
