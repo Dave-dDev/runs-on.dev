@@ -4,7 +4,9 @@
     "github": "Trueness04"
   },
   "claimedAt": "2026-09-18T11:51:06.683Z",
-  "records": {},
+  "records": {
+    "CNAME": "trueness04.github.io"
+  },
   "country": "MD",
   "profile": {
     "name": "Amin"
