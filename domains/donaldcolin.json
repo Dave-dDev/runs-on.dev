@@ -4,7 +4,9 @@
     "github": "donaldcolin"
   },
   "claimedAt": "2026-09-18T08:23:27.936Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN",
   "profile": {
     "name": "Donald colim",
