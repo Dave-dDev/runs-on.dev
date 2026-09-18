@@ -4,7 +4,9 @@
     "github": "rajveer0917"
   },
   "claimedAt": "2026-09-18T06:28:10.049Z",
-  "records": {},
+  "records": {
+    "CNAME": "one1lottery.full-project.onrender.com"
+  },
   "country": "IN",
   "subdomains": {
     "livechat-customerservice": {
