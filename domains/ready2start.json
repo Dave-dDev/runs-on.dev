@@ -4,6 +4,8 @@
     "github": "mozaloom"
   },
   "claimedAt": "2026-09-18T10:50:54.542Z",
-  "records": {},
+  "records": {
+    "CNAME": "ready2start.runs-on.dev"
+  },
   "country": "JO"
 }
