@@ -12,7 +12,7 @@
     "ehadziabdic": {
       "CNAME": "e3fd8b826bbd634f.vercel-dns-017.com"
     },
-    "vercel": {
+    "_vercel": {
       "TXT": [
         "vc-domain-verify=ehadziabdic.runs-on.dev,5e354e1f7f1ea596c3f0"
       ]
