@@ -4,6 +4,13 @@
     "github": "preetmendpara"
   },
   "claimedAt": "2026-09-18T02:02:07.221Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "preet-mendpara-portfolio.pages.dev"
+  },
+  "country": "IN",
+  "subdomains": {
+    "preetmendpara": {
+      "CNAME": "preet-mendpara-portfolio.pages.dev"
+    }
+  }
 }
