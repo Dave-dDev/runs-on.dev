@@ -4,6 +4,8 @@
     "github": "b68-Nihal"
   },
   "claimedAt": "2026-09-18T07:28:11.477Z",
-  "records": {},
+  "records": {
+    "CNAME": "oms-eight-peach.vercel.app"
+  },
   "country": "NP"
 }
