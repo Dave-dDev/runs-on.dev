@@ -4,6 +4,18 @@
     "github": "Rosander0"
   },
   "claimedAt": "2026-09-18T11:57:54.912Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=rosander.runs-on.dev,d0ebbeb8ee56234a2983"
+      ]
+    }
+  },
+  "profile": {
+    "name": "Rosander0"
+  }
 }
