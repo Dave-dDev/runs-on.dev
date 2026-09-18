@@ -4,6 +4,18 @@
     "github": "justpriamextra-cyber"
   },
   "claimedAt": "2026-09-18T05:01:19.970Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "0ab103e426af97ab.vercel-dns-017.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "magicalai": {
+      "CNAME": "0ab103e426af97ab.vercel-dns-017.com"
+    },
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=magicalai.runs-on.dev,01632e80c4c76dcfde25"
+      ]
+    }
+  }
 }
