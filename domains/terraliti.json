@@ -4,6 +4,8 @@
     "github": "dranimalis"
   },
   "claimedAt": "2026-09-18T07:02:35.892Z",
-  "records": {},
+  "records": {
+    "CNAME": "terraliti.onrender.com"
+  },
   "country": "ID"
 }
