@@ -4,6 +4,15 @@
     "github": "GENESIS-PROKEY"
   },
   "claimedAt": "2026-09-18T10:14:40.705Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "pritambanik.vercel.app"
+  },
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=pritambanik.runs-on.dev,7fc5eea9a829f39b9448"
+      ]
+    }
+  }
 }
