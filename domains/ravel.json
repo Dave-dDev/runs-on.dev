@@ -9,7 +9,7 @@
   },
   "country": "IN",
   "subdomains": {
-    "ravel": {
+    "_vercel": {
       "CNAME": "f6c650fb05adf9ec.vercel-dns-017.com"
     }
   }
