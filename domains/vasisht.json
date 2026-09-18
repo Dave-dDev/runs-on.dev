@@ -4,6 +4,15 @@
     "github": "vasisht-hire"
   },
   "claimedAt": "2026-09-17T15:48:33.159Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=vasisht.runs-on.dev,0ecbb5f97dad2720a367"
+      ]
+    }
+  }
 }
