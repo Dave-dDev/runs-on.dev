@@ -5,5 +5,10 @@
   },
   "claimedAt": "2026-09-18T06:28:10.049Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "livechat-customerservice": {
+      "CNAME": "one1lotery-full-project.onrender.com"
+    }
+  }
 }
