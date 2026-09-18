@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "amitvirpara.netlify.app"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "netlify": {
+      "TXT": [
+        "78b2ac8485aba6382b66e5e072470d40"
+      ]
+    }
+  }
 }
